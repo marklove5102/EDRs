@@ -1,5 +1,7 @@
 # EDRs
 
+[![Starlog](https://img.shields.io/badge/Starlog-Deep_Dive-00e5ff?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDkgOUgyTDcgMTRMNSAyMkwxMiAxN0wxOSAyMkwxNyAxNEwyMiA5SDE1TDEyIDJaIi8+PC9zdmc+)](https://starlog.is/articles/developer-tools/mr-un1k0d3r-edrs)
+
 This repo contains information about EDRs that can be useful during red team exercise.
 
 
